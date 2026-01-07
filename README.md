@@ -106,4 +106,3 @@ Al ejecutar la aplicación, se observa el siguiente comportamiento programado:
 
 **Autor:** Axel Molineros
 **Asignatura:** Programación Orientada a Objetos
-**Asignatura:** Programación Web
