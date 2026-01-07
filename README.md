@@ -101,7 +101,7 @@ Al ejecutar la aplicación, se observa el siguiente comportamiento programado:
 2.  Abrir el proyecto en NetBeans o IDE de preferencia.
 3.  Realizar "Clean and Build" para generar el archivo `.war`.
 4.  Desplegar en Apache Tomcat.
-5.  Acceder a través del archivo web jsp: `http://localhost:8080/Prueba2/ListarAutos.jsp`
+5.  Acceder a través del archivo web jsp: `http://localhost:8080/Prueba2/AutomovilServlet`
 ---
 
 **Autor:** Axel Molineros
